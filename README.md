@@ -14,37 +14,49 @@
 
 ---
 
+## Introduction
+
+Welcome to the digital hub of the Block Foundation. As a dynamic and innovative organization, we understand the value of maintaining an active and engaging presence across various digital platforms. This is not only to ensure our visibility but also to promote open dialogue, foster community interaction, and drive forward our mission to revolutionize architecture through blockchain technology.
+
+Our internet profiles and social media accounts serve as a bridge between the Block Foundation and our global community. They are platforms where we share the latest updates, upcoming projects, groundbreaking research, thought leadership, and opportunities to participate in our endeavors.
+
+This overview page offers a comprehensive guide to the Block Foundation's social media and internet profiles, providing you with the means to stay connected with us. Whether you're interested in our work, seeking resources, or want to join our community, you'll find the relevant platforms and how to engage with us here.
+
+Remember, your interaction is what breathes life into our community. Whether it's by responding to our posts, sharing our content, or participating in discussions, your voice contributes to the diversity and richness of the Block Foundation's collective conversation.
+
+Welcome again to our digital ecosystem, where every click, share, and comment brings us one step closer to transforming the architectural landscape through the power of blockchain technology.
+
 ## Overview
 
-| Account           | Type          | Active    | URL       |
-| ----------------- | ------------- | --------- | --------- |
-| 500px             | Media         | No        | [500px.com/p/blockfoundation](https://www.500px.com/p/blockfoundation) |
-| AngelList         | Business      | No        | [angel.co/block-foundation](https://angel.co/block-foundation) |
-| Archello          | Design        | No        | [archello.com/brand/block-foundation](https://archello.com/brand/block-foundation) |
-| Archinect         | Design        | No        | [archinect.com/block](https://archinect.com/block) |
-| Crunchbase        | Business      | No        | [crunchbase.com/organization/block-foundation](https://www.crunchbase.com/organization/block-foundation) |
-| Docker            | Development   | Yes       | [hub.docker.com/orgs/blockfoundation](https://hub.docker.com/orgs/blockfoundation) |
-| Facebook          | Social        | No        | [facebook.com/blockfoundation.io](https://www.facebook.com/blockfoundation.io) |
-| Figma             | Design        | No        | [figma.com/@blockfoundation](https://www.figma.com/@blockfoundation) |
-| GitHub            | Development   | Yes       | [github.com/blockfoundation](https://www.github.com/blockfoundation) |
-| GitLab            | Development   | No        | [gitlab.com/block-foundation](https://www.gitlab.com/block-foundation) |
-| Gravatar          | Social        | Yes       | [en.gravatar.com/blockfound](https://en.gravatar.com/blockfound)      |
-| Instagram         | Social        | Yes       | [instagram.com/block.foundation](https://instagram.com/block.foundation) |
-| Issuu             | Researc       | No        | [issuu.com/blockfoundation](https://www.issuu.com/blockfoundation) |
-| Ko-fi              | Funding       | No        | [ko-fi.com/blockfoundation](https://www.ko-fi.com/blockfoundation) |
-| LinkedIn          | Social        | Yes       | [linkedin.com/company/block-foundation](https://www.linkedin.com/company/block-foundation) |
-| NPM               | Development   | Yes       | [npmjs.com/org/blockfoundation](https://www.npmjs.com/org/blockfoundation) |
-| Open Collective   | Funding       | No        | [opencollective.com/block](https://opencollective.com/block) |
-| Patreon           | Funding       | No        | [patreon.com/blockfoundation](https://www.patreon.com/blockfoundation) |
-| Pinterest         | Social        | No        | [pinterest.com/blockfoundation](https://www.pinterest.com/blockfoundation) |
-| Spotify           | Media         | No        | [open.spotify.com/user/31p6wit6pwratnwob6tzjd2os56e](https://open.spotify.com/user/31p6wit6pwratnwob6tzjd2os56e) |
-| Substack          | Development   | No        | [blockfoundation.substack.com](https://blockfoundation.substack.com) |
-| Telegram          | Social        | No        | [t.me/blockfoundation](https://t.me/blockfoundation) |
-| Twitch            | Media         | No        | [twitch.tv/blockfoundation](https://www.twitch.tv/blockfoundation) |
-| Twitter           | Social        | No        | [twitter.com/block_found](https://twitter.com/block_found) |
-| Vimeo             | Media         | No        | [vimeo.com/blockfoundation](https://www.vimeo.com/blockfoundation) |
-| YouTube           | Media         | No        | [youtube.com/@blockfoundation](https://www.youtube.com/@blockfoundation) |
-| Zotero            | Research      | Yes       | [zotero.org/groups/block](https://www.zotero.org/groups/block) |
+| Account               | Type            | Active      | URL       |
+| --------------------- | --------------- | ----------- | --------- |
+| **500px**             | `Media`         | `No`        | [500px.com/p/blockfoundation](https://www.500px.com/p/blockfoundation) |
+| **AngelList**         | `Business`      | `No`        | [angel.co/block-foundation](https://angel.co/block-foundation) |
+| **Archello**          | `Design`        | `No`        | [archello.com/brand/block-foundation](https://archello.com/brand/block-foundation) |
+| **Archinect**         | `Design`        | `No`        | [archinect.com/block](https://archinect.com/block) |
+| **Crunchbase**        | `Business`      | `No`        | [crunchbase.com/organization/block-foundation](https://www.crunchbase.com/organization/block-foundation) |
+| **Docker**            | `Development`   | `Yes`       | [hub.docker.com/orgs/blockfoundation](https://hub.docker.com/orgs/blockfoundation) |
+| **Facebook**          | `Social`        | `No`        | [facebook.com/blockfoundation.io](https://www.facebook.com/blockfoundation.io) |
+| **Figma**             | `Design`        | `No`        | [figma.com/@blockfoundation](https://www.figma.com/@blockfoundation) |
+| **GitHub**            | `Development`   | `Yes`       | [github.com/blockfoundation](https://www.github.com/blockfoundation) |
+| **GitLab**            | `Development`   | `No`        | [gitlab.com/block-foundation](https://www.gitlab.com/block-foundation) |
+| **Gravatar**          | `Social`        | `Yes`       | [en.gravatar.com/blockfound](https://en.gravatar.com/blockfound)      |
+| **Instagram**         | `Social`        | `Yes`       | [instagram.com/block.foundation](https://instagram.com/block.foundation) |
+| **Issuu**             | `Researc`       | `No`        | [issuu.com/blockfoundation](https://www.issuu.com/blockfoundation) |
+| **Ko-fi**              | `Funding`       | `No`        | [ko-fi.com/blockfoundation](https://www.ko-fi.com/blockfoundation) |
+| **LinkedIn**          | `Social`        | `Yes`       | [linkedin.com/company/block-foundation](https://www.linkedin.com/company/block-foundation) |
+| **NPM**               | `Development`   | `Yes`       | [npmjs.com/org/blockfoundation](https://www.npmjs.com/org/blockfoundation) |
+| **Open Collective**   | `Funding`       | `No`        | [opencollective.com/block](https://opencollective.com/block) |
+| **Patreon**           | `Funding`       | `No`        | [patreon.com/blockfoundation](https://www.patreon.com/blockfoundation) |
+| **Pinterest**         | `Social`        | `No`        | [pinterest.com/blockfoundation](https://www.pinterest.com/blockfoundation) |
+| **Spotify**           | `Media`         | `No`        | [open.spotify.com/user/31p6wit6pwratnwob6tzjd2os56e](https://open.spotify.com/user/31p6wit6pwratnwob6tzjd2os56e) |
+| **Substack**          | `Development`   | `No`        | [blockfoundation.substack.com](https://blockfoundation.substack.com) |
+| **Telegram**          | `Social`        | `No`        | [t.me/blockfoundation](https://t.me/blockfoundation) |
+| **Twitch**            | `Media`         | `No`        | [twitch.tv/blockfoundation](https://www.twitch.tv/blockfoundation) |
+| **Twitter**           | `Social`        | `No`        | [twitter.com/block_found](https://twitter.com/block_found) |
+| **Vimeo**             | `Media`         | `No`        | [vimeo.com/blockfoundation](https://www.vimeo.com/blockfoundation) |
+| **YouTube**           | `Media`         | `No`        | [youtube.com/@blockfoundation](https://www.youtube.com/@blockfoundation) |
+| **Zotero**            | `Research`      | `Yes`       | [zotero.org/groups/block](https://www.zotero.org/groups/block) |
 
 ## Legal
 
