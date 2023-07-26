@@ -46,9 +46,10 @@ Welcome again to our digital ecosystem, where every click, share, and comment br
 | **Ko-fi**              | `Funding`       | `No`        | [ko-fi.com/blockfoundation](https://www.ko-fi.com/blockfoundation) |
 | **LinkedIn**          | `Social`        | `Yes`       | [linkedin.com/company/block-foundation](https://www.linkedin.com/company/block-foundation) |
 | **NPM**               | `Development`   | `Yes`       | [npmjs.com/org/blockfoundation](https://www.npmjs.com/org/blockfoundation) |
-| **Open Collective**   | `Funding`       | `No`        | [opencollective.com/block](https://opencollective.com/block) |
+| **Open Collective**   | `Funding`       | `Yes`       | [opencollective.com/block](https://opencollective.com/block) |
 | **Patreon**           | `Funding`       | `No`        | [patreon.com/blockfoundation](https://www.patreon.com/blockfoundation) |
 | **Pinterest**         | `Social`        | `No`        | [pinterest.com/blockfoundation](https://www.pinterest.com/blockfoundation) |
+| **PyPi**              | `Development`   | `Yes`       | [pypi.org/user/block](https://pypi.org/user/block) |
 | **Spotify**           | `Media`         | `No`        | [open.spotify.com/user/31p6wit6pwratnwob6tzjd2os56e](https://open.spotify.com/user/31p6wit6pwratnwob6tzjd2os56e) |
 | **Substack**          | `Development`   | `No`        | [blockfoundation.substack.com](https://blockfoundation.substack.com) |
 | **Telegram**          | `Social`        | `No`        | [t.me/blockfoundation](https://t.me/blockfoundation) |
@@ -57,6 +58,30 @@ Welcome again to our digital ecosystem, where every click, share, and comment br
 | **Vimeo**             | `Media`         | `No`        | [vimeo.com/blockfoundation](https://www.vimeo.com/blockfoundation) |
 | **YouTube**           | `Media`         | `No`        | [youtube.com/@blockfoundation](https://www.youtube.com/@blockfoundation) |
 | **Zotero**            | `Research`      | `Yes`       | [zotero.org/groups/block](https://www.zotero.org/groups/block) |
+
+## Contact
+
+```topojson
+{
+  "type": "Topology",
+  "transform": {
+    "scale": [0.0005000500050005, 0.00010001000100010001],
+    "translate": [100, 0]
+  },
+  "objects": {
+    "example": {
+      "type": "GeometryCollection",
+      "geometries": [
+        {
+          "type": "Point",
+          "properties": {"prop0": "value0"},
+          "coordinates": [4.8659359154421145, 52.378988725132466]          
+        }
+      ]
+    }
+  },
+}
+```
 
 ## Legal
 
