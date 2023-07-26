@@ -59,7 +59,7 @@ Welcome again to our digital ecosystem, where every click, share, and comment br
 | **YouTube**           | `Media`         | `No`        | [youtube.com/@blockfoundation](https://www.youtube.com/@blockfoundation) |
 | **Zotero**            | `Research`      | `Yes`       | [zotero.org/groups/block](https://www.zotero.org/groups/block) |
 
-## Contact
+<!-- ## Contact
 
 ```topojson
 {
@@ -81,7 +81,7 @@ Welcome again to our digital ecosystem, where every click, share, and comment br
     }
   }
 }
-```
+``` -->
 
 ## Legal
 
