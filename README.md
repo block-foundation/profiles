@@ -79,7 +79,7 @@ Welcome again to our digital ecosystem, where every click, share, and comment br
         }
       ]
     }
-  },
+  }
 }
 ```
 
